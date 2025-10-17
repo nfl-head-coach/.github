@@ -10,7 +10,7 @@ and powered by data-driven insights.
 With real-time data and performance-based decisions, you can line up your dream team, 
 outsmart your opponents, scout the stars of tomorrow, and prove you have what it takes to be a **championship-winning head coach**.
 <br><br>
-🌐 **Website:** [nflheadcoach.io](https://nflheadcoach.io)
+🌐 **Website:** [head-coach.io](https://www.head-coach.io)
 
 ## 🛠️ Tech Stack
 
